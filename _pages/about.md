@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I sam a 3rd year PhD student in Computer Vision and Machine Learning at the [Centre of Mathematical Sciences](https://www.maths.lu.se/english/) at [Lund University](https://www.lunduniversity.lu.se/) under the supervision of [Viktor Larsson](https://vlarsson.github.io/) and co-supervision of [Magnus Oskarsson](https://portal.research.lu.se/sv/persons/magnus-oskarsson/). I am funded by [ELLIIT](https://elliit.se/) and affiliated with [WASP](https://wasp-sweden.org/).
+I am a 3rd year PhD student in Computer Vision and Machine Learning at the [Centre of Mathematical Sciences](https://www.maths.lu.se/english/) at [Lund University](https://www.lunduniversity.lu.se/) under the supervision of [Viktor Larsson](https://vlarsson.github.io/) and co-supervision of [Magnus Oskarsson](https://portal.research.lu.se/sv/persons/magnus-oskarsson/). I am funded by [ELLIIT](https://elliit.se/) and affiliated with [WASP](https://wasp-sweden.org/).
  
 I research on localization and mapping problems in computer vision, including structure from motion, point cloud registration, structureless and sparse-view localization, as well as scene coordinate regression/reconstruction. In addition to research, I teach undergraduate and graduate courses in mathematics, computer vision, and machine learning, and pursue advanced coursework in these areas to deepen my knowledge.
 
