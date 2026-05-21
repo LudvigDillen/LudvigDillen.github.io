@@ -35,7 +35,7 @@ calendar: true
 
 2019 - [Linear Algebra (TATA31)](https://studieinfo.liu.se/en/kurs/TATA31) (Teaching Assistant)
 
-And some additional course in linear systems or digital communication I've forgotten the name of.
+And some additional courses in linear systems or digital communication I've forgotten the names of.
 
 ## MSc Theses
 
@@ -47,7 +47,7 @@ And some additional course in linear systems or digital communication I've forgo
 ##### Previous
 
    - 2025 Arvid Norinder & Hjalmar Sandblom, Polarmist: [Panoramic Skyline Matching for Geo-Localization in Archipelagic Environments](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9215745&fileOId=9215746)
-   - 2025 Simon Berntsson, internal.
+   - 2025 Simon Berntsson, internal: Neural Motion Averaging for Visual Localization with Graph Attention Networks
    - 2024-2025 Johanna Lidholm, internal: [Robust Visual Localization through Covisibility-Guided
 2D-3D Matching with Fused Descriptors](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9191414&fileOId=9191416)
    - 2024-2025 Axel Ahlin, Axis: [Estimating Infrared-to-Visible Light Ratio in Images Using Gradient-Boosted Decision Trees and Multilayer Perceptrons](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9185839&fileOId=9185842)
