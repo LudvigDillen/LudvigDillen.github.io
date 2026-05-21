@@ -364,11 +364,11 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-fact-multinomial-misalignment-classification-for-point-cloud-registration-accepted-at-scia",
-          title: 'FACT: Multinomial Misalignment Classification for Point Cloud Registration accepted at SCIA',
-          description: "",
-          section: "News",},{id: "news-finished-civil-engineering-at-linköping-university-with-msc-in-computer-vision-and-signal-analysis-with-gpa-4-92-5-00-and-feature-aware-point-transformer-for-point-cloud-alignment-classification",
+      },{id: "news-finished-civil-engineering-at-linköping-university-with-msc-in-computer-vision-and-signal-analysis-with-gpa-4-92-5-00-and-feature-aware-point-transformer-for-point-cloud-alignment-classification",
           title: 'Finished Civil Engineering at Linköping University with MSc in Computer Vision and Signal...',
+          description: "",
+          section: "News",},{id: "news-fact-multinomial-misalignment-classification-for-point-cloud-registration-accepted-at-scia",
+          title: 'FACT: Multinomial Misalignment Classification for Point Cloud Registration accepted at SCIA',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-cvpr-one-at-main-conference-and-one-at-findings-tracks",
           title: 'Two papers accepted at CVPR (one at main conference and one at findings...',
