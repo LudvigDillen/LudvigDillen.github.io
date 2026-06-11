@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sparse–View Localization via Online Neural 3D Regression](https://openaccess.thecvf.com//content/CVPR2026/papers/Dillen_Sparse-View_Localization_via_Online_Neural_3D_Regression_CVPR_2026_paper.pdf) accepted at CVPR ([poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37203.png?t=1779176476.8928816), [video](https://www.youtube.com/watch?v=TGc1dTexHQA), [code](https://github.com/LudvigDillen/ON3R))
+[Sparse–View Localization via Online Neural 3D Regression](https://openaccess.thecvf.com//content/CVPR2026/papers/Dillen_Sparse-View_Localization_via_Online_Neural_3D_Regression_CVPR_2026_paper.pdf) accepted at CVPR ([paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Dillen_Sparse-View_Localization_via_Online_Neural_3D_Regression_CVPR_2026_paper.pdf), [supp](https://openaccess.thecvf.com/content/CVPR2026/supplemental/Dillen_Sparse-View_Localization_via_CVPR_2026_supplemental.pdf), [poster](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37203.png?t=1779176476.8928816), [video](https://www.youtube.com/watch?v=TGc1dTexHQA), [code](https://github.com/LudvigDillen/ON3R))

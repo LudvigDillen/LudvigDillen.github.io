@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[FACT: Multinomial Misalignment Classification for Point Cloud Registration](https://arxiv.org/pdf/2504.06627?) accepted at SCIA ([code](https://github.com/LudvigDillen/FACT_for_PCMC))
+[FACT: Multinomial Misalignment Classification for Point Cloud Registration](https://arxiv.org/pdf/2504.06627?) accepted at SCIA ([paper+supp](https://arxiv.org/pdf/2504.06627?), [code](https://github.com/LudvigDillen/FACT_for_PCMC))
