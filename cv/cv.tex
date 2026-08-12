@@ -112,7 +112,7 @@
     \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
       \textbf{\large#1} & \textbf{\small #2} \\
       \textit{\large#3} & \textit{\small #4} \\
-      
+
     \end{tabular*}\vspace{-7pt}
 }
 
@@ -172,23 +172,23 @@
 
 
   \resumeSubHeadingListStart
-    \resumeSubheading
-      {Lund University}{Lund, Sweden}
-      {Ph.D. Student in Applied Mathematics}{2023/11 -- present} \\
-      \vspace{6pt}
-      {Project: Revisiting data associations for large-scale mapping.} \\
-      {PI: Viktor Larsson; Co-PI: Magnus Oskarsson}
+    \resumeProjectHeading
+      {\textbf{\large{\underline{Ph.D. Student in Applied Mathematics}}} $|$ \large{\underline{Lund University}}}{2023/11 -- present}
+
+      \begin{itemize}
+        \item \textbf{Focus:} Computer Vision and Machine Learning
+        \item \textbf{Project:} Revisiting data associations for large-scale mapping.
+        \item \textbf{PI:} \href{https://vlarsson.github.io/}{\underline{Viktor Larsson}}; \textbf{Co-PI:} \href{https://scholar.google.com/citations?user=zErxvQoAAAAJ&hl=en}{\underline{Magnus Oskarsson}}
+      \end{itemize}
   \resumeSubHeadingListEnd
 
     \resumeSubHeadingListStart
-    \resumeSubheading
-      {Linköping University}{Linköping, Sweden}
-      {Industrial Engineering and Management - \textbf{GPA}: \textbf{4.92} (max 5.00)}{2018/08 -- 2023/10}
+    \resumeProjectHeading
+      {\textbf{\large{\underline{Industrial Engineering and Management}}} $|$ \large{\underline{Linköping University}} (GPA: 4.92 / 5.00)}{2018/08 -- 2023/10}
 
       \begin{itemize}
         \item \textbf{Bachelor profile:} Electrical Engineering -- \href{https://drive.google.com/file/d/1LhI9Oif1Pj19Uy0XpI_2b7IDi1ndWN1y/view?usp=sharing}{\underline{Bachelor Thesis}\ \raisebox{-0.1\height}\faExternalLink}
-        \item \textbf{École Polytechnique Fédérale de Lausanne} \hfill \textbf{\small Lausanne, Switzerland} \\
-          \textit{Exchange semester} \hfill \textit{\small 2021/08 -- 2022/02}
+        \item \textbf{École Polytechnique Fédérale de Lausanne} -- \textit{Exchange semester} \hfill \textit{\small 2021/08 -- 2022/02}
         \item \textbf{Master profile:} Computer Vision and Signal Analysis -- \href{http://liu.diva-portal.org/smash/get/diva2:1803604/FULLTEXT01.pdf}{\underline{Master Thesis}\ \raisebox{-0.1\height}\faExternalLink}
       \end{itemize}
   \resumeSubHeadingListEnd
@@ -227,30 +227,6 @@
 
 
 %-----------EXPERIENCE-----------
-\section{INTERNSHIP}
-  \resumeSubHeadingListStart
-
-    \resumeSubheading
-      {Arriver/Qualcomm \href{https://www.qualcomm.com/products/automotive/snapdragon-digital-chassis/autonomous-driving}{\raisebox{-0.1\height}\faExternalLink }}{Linköping, Sweden} 
-      {\underline{Feature Engineer}}{}
-      \resumeItemListStart
-        \resumeItem{\normalsize{\textbf{Second summer (2022/06 -- 2022/08)}: We used a CNN for semantic segmentation of restricted areas, curb edges, and snow edges, which have been integrated into the product, set to be deployed in vehicles.}}
-        \resumeItem{\normalsize{\textbf{First summer (2021/06 -- 2021/08)}: It involved visualizing and creating a toolbox for CNN statistics.}}
-  
-      \resumeItemListEnd  
-  \resumeSubHeadingListEnd
-\vspace{-12pt}
-%-----------PROGRAMMING SKILLS-----------
-\section{TECHNICAL SKILLS}
- \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{\normalsize{Languages:}}{ \normalsize{\verb|Python|, \verb|Matlab|, C\texttt{+}\texttt{+}, \verb|Java|, \verb|R|}} \\
-     \textbf{\normalsize{Technologies/Frameworks:}}{\normalsize{\:\verb|PyTorch|, \LaTeX, \verb|Git|, \verb|Visual Studio Code|, \verb|PowerPoint|, \verb|Excel|}} \\
-    }}
- \end{itemize}
- \vspace{-15pt}
-
-
 %-----------INVOLVEMENT---------------
 \section{WORK EXPERIENCE}
     \resumeSubHeadingListStart
@@ -261,6 +237,14 @@
                 % \resumeItem{\normalsize{My research in LiDAR SLAM for forest terrains, part of the academic-industry collaboration \href{https://www.visualsweden.se/aktuella-projekt/smart-twin-for-forest-environment/}{Smart Twin by Visual Sweden}, centered on outlier correction in point cloud registration, a topic I explored further in my master's thesis.}}
                 \resumeItem{\normalsize{I participated in weekly seminars and meetings with the lab, learning more about computer vision as well as its research landscape and industrial applications.}}
             \resumeItemListEnd
+
+        \resumeProjectHeading
+          {\textbf{\large{\underline{Feature Engineer}}} $|$ \href{https://www.qualcomm.com/automotive}{\large{\underline{Qualcomm (previously Arriver)}} \raisebox{-0.1\height}\faExternalLink}}{2021/06 -- 2022/08}
+          \begin{itemize}[itemsep=-2pt]
+            \item \textbf{Second summer (2022/06 -- 2022/08)}: We used a CNN for semantic segmentation of restricted areas, curb edges, and snow edges, which have been integrated into the product, set to be deployed in vehicles.
+            \item \textbf{First summer (2021/06 -- 2021/08)}: It involved visualizing and creating a toolbox for CNN statistics.
+          \end{itemize}
+          \vspace{-8pt}
 
         \resumeSubheading{ }{ }{\underline{Teaching Assistant}}{2019/08 -- 2021/06}
         \resumeItemListStart
@@ -284,7 +268,14 @@
         %     \resumeItemListEnd 
   \resumeSubHeadingListEnd
 \vspace{-12pt}
- 
+
+%-----------SELECTED TECHNOLOGIES---------------
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \item{
+     \textbf{\normalsize{Selected Technologies:}}{ \normalsize{\verb|Python|, \verb|PyTorch|, \verb|Wandb|, \verb|Git|, \verb|Codex|, \verb|Claude Code|, \LaTeX, \verb|Slurm|}}
+    }
+ \end{itemize}
+
  %-----------CERTIFICATIONS---------------
  \begin{comment}
 \section{CERTIFICATIONS}
