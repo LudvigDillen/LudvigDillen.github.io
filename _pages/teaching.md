@@ -40,12 +40,12 @@ And some additional courses in linear systems or digital communication I've forg
 ## MSc Theses
 
 ##### Ongoing
-   - 2026 Shuying Liu & Jia Gu, internal: *LightGlu3D: Feature Matching between 2D and 3D* ...
-   - 2026 Keming Jiao, Sony: *4D Sports Scene Reconstruction* ...
    - 2026 Johan Viklund, internal: *Deformable Convolutions for Feature Learning* ...
 
 ##### Previous
 
+   - 2026 Shuying Liu & Jia Gu, internal: LightGlu3D: Feature Matching between 2D and 3D
+   - 2026 Keming Jiao, Sony: [4D Sports Scene Reconstruction: From Motion Capture System to Free-Viewpoint Video using Gaussian Splatting](https://lup.lub.lu.se/student-papers/record/9231164/file/9234134.pdf)
    - 2025 Arvid Norinder & Hjalmar Sandblom, Polarmist: [Panoramic Skyline Matching for Geo-Localization in Archipelagic Environments](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9215745&fileOId=9215746)
    - 2025 Simon Berntsson, internal: Neural Motion Averaging for Visual Localization with Graph Attention Networks
    - 2024-2025 Johanna Lidholm, internal: [Robust Visual Localization through Covisibility-Guided
